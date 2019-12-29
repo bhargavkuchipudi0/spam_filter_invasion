@@ -1,0 +1,11 @@
+# directories
+venv/
+.idea/
+__pycache__
+.ipynb_checkpoints
+.vscode
+graphs
+._.DS_Store
+my_classifier.pickle
+
+# files
